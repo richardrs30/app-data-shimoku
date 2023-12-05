@@ -15,13 +15,16 @@ source pruebaVirtual/bin/activate
 ```
 pip install shimoku-api-python
 ```
-### You can see the tutorial on medium:
+## You can see the tutorial on medium:
 Ⓜ️ [Medium](https://medium.com/@richardrs30/developing-a-data-application-on-a-local-server-with-the-shimoku-sdk-9de0a13656ca) | 
 💼 [SDK](https://github.com/shimoku-tech/shimoku-api-python) | 
 📚 [Documentation](https://docs.shimoku.com/development/getting-started/what-is-shimoku) | 
 🌐 [Shimoku](https://es.shimoku.com/) 
 
+<br>
 
+## Project screenshot: 
+![img-shimoku-playground](https://github.com/richardrs30/app-data-shimoku/assets/56496145/d7b4aa38-f135-4f97-b47f-f44e4f64d8b4)
 
 
 
